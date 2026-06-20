@@ -1,1 +1,14 @@
+# Jupyter Notebooks
 tutorial.ipynb
+.ipynb_checkpoints/
+
+# Python Cache and Build files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
